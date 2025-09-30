@@ -1,0 +1,12 @@
+## 1 oct 
+
+step 1 -> npm create vite@lates -- -- template react
+   
+// https://tailwindcss.com/docs/installation/using-vite
+
+step 2 -> 
+* npm install -D tailwindcss
+* npm tailwind init
+
+youtube video 
+https://www.youtube.com/watch?v=0fYi8SGA20k&t=629s
